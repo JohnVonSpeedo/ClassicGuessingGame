@@ -9,4 +9,4 @@ macOS/Linux: `source .venv/bin/activate`
 
 Install dependencies: no need for installation
 
-Run the program: `python app.py`
+Run the program: `python program.py`
